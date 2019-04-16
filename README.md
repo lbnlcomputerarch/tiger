@@ -42,3 +42,35 @@ its behalf a paid-up, nonexclusive, irrevocable, worldwide license in the
 Software to reproduce, distribute copies to the public, prepare derivative
 works, and perform publicly and display publicly, and to permit other to do
 so.
+
+---
+## Publication ##
+
+If you use this for research, please cite the original CF paper:
+
+> Anastasiia Butko, George Michelogiannakis, David Donofrio, and John
+Shalf. "TIGER: Topology-aware Task Assignment Approach
+using Ising machines". In _Proceedings of the 16th conference on Computing Frontiers
+(CF ’19), April 30-May 2, 2019, Alghero, Italy. ACM, New York, NY, USA,
+9 pages. DOI: [10.1145/3310273.3321556] (https://doi.org/10.1145/3310273.3321556).
+
+```
+@inproceedings{eldridge2015,
+  author    = {Anastasiia Butko and
+               George Michelogiannakis and
+               David Donofrio and
+               John Shalf},
+  title     = {TIGER: Topology-aware Task Assignment Approach using Ising machines},
+  booktitle = {16th conference on Computing Frontiers (CF ’19), April 30-May 2, 2019, Alghero, Italy},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3310273.3321556},
+  doi       = {10.1145/3310273.3321556},
+}
+```
+
+---
+## Author ##
+
+BUTKO Anastasiia abutko@lbl.gov
+
+
