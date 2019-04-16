@@ -1,8 +1,7 @@
-# TIGER: Topology-Aware Task Assignment
+TIGER: Topology-Aware Task Assignment
 ========
 
 ## Abstract ##
-
 coming soon
 
 ---
