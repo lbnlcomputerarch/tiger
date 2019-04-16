@@ -55,7 +55,7 @@ using Ising machines". In _Proceedings of the 16th conference on Computing Front
 9 pages. DOI: [10.1145/3310273.3321556] (https://doi.org/10.1145/3310273.3321556).
 
 ```
-@inproceedings{eldridge2015,
+@inproceedings{abutko2019,
   author    = {Anastasiia Butko and
                George Michelogiannakis and
                David Donofrio and
