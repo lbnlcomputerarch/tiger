@@ -1,4 +1,4 @@
-TIGER: Topology-Aware Task Assignment
+TIGER: Topology-aware task assIGnment mappER
 ========
 
 ## Abstract ##
