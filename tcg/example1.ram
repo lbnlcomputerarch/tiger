@@ -1,0 +1,48 @@
+/***************************************************************************************************
+ *                        
+ * File Name:             example1.ram 
+ * Application Version:   - 
+ * Application Developer: -
+ *                        
+ *                        
+ * Software:              Task assIGnment solvER (TIGER)
+ * Author:                Anastasiia Butko (LBNL)
+ * Website:               -
+ *
+ *
+ *
+ *
+ *
+ * The copyright information of this software can be found in the file COPYRIGHT. 
+ *
+ **************************************************************************************************/
+AppName example1
+11 14
+0
+10
+0 0 10 10 10
+1 0 20 20 20
+2 0 13 13 13
+3 0 21 21 21
+4 0 17 17 17
+5 0 11 11 11
+6 0 34 34 34
+7 0 25 25 25
+8 0 10 10 10
+9 0 7 7 7
+10 0 60 60 60
+0 0 1 2
+1 0 2 2
+2 0 3 2
+3 1 4 8
+4 2 5 6
+5 3 6 6
+6 3 7 6
+7 4 5 2
+8 4 9 4
+9 5 8 10
+10 6 8 10
+11 7 10 4
+12 8 9 4
+13 8 10 4
+14 9 10 4
